@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import TripApp from './TripApp';
+import TripApp from './TripApp.jsx';
 
 export default function App() {
   const [isAuthenticated, setIsAuthenticated] = useState(false);
