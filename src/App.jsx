@@ -21,13 +21,12 @@ import {
  * --- 設定エリア (ここだけ書き換えてください) ---
  */
 const firebaseConfig = {
-  // ★ここにFirebaseコンソールからコピーした設定値を貼り付けてください
-  apiKey: "AIzaSy...",
-  authDomain: "YOUR_PROJECT.firebaseapp.com",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_PROJECT.appspot.com",
-  messagingSenderId: "...",
-  appId: "..."
+  apiKey: "AIzaSyAykWOXs8OieiRQihIJDdcYsMq0v9W0_mQ",
+  authDomain: "nagoya-trip-2026.firebaseapp.com",
+  projectId: "nagoya-trip-2026",
+  storageBucket: "nagoya-trip-2026.firebasestorage.app",
+  messagingSenderId: "550726837397",
+  appId: "1:550726837397:web:eecf06ea9c7aa31bbde79c"
 };
 /** ------------------------------------------------ */
 
